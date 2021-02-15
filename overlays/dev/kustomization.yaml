@@ -3,3 +3,4 @@ kind: Kustomization
 resources:
 - ../../base
 namePrefix: pbmoses
+images: test1
